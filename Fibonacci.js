@@ -1,4 +1,4 @@
-// * Fibonacci series ( 0 1 1 2 3 5 8 13 21 34... )
+// Fibonacci series ( 0 1 1 2 3 5 8 13 21 34... )
 
 // Noobie
 function Fibonacci_Noob(n) {
@@ -25,3 +25,4 @@ function Fibonacci_Pro(n) {
 }
 
 // Big O Notation : O(n)
+
