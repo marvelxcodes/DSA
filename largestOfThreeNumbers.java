@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class largestOfThreeNumbers {
 	public static void main(String args[]) {
 		Scanner x = new Scanner(System.in);
 		System.out.print("Enter Your Number 1: ");
